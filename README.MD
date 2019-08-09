@@ -18,6 +18,9 @@ To install required packages, run `pip install -r requirements.txt`.
 ### Notes
 * This POC mainly tests out a sample signatures for 2 people. Further upgrade possible, to segregate model folders, each customized to a particular person. Each model folder will be tagged with an ID, with binary classification of forge/real for a particular person. 
 
+## Acknowledgements
+Images used for train/test/predict actions in this POC comes from http://www.iapr-tc11.org/mediawiki/index.php/ICDAR_2011_Signature_Verification_Competition_(SigComp2011).
+
 ## Built With
 * [Tensorflow](https://www.tensorflow.org/) - Open Source Machine / Deep Learning Platform
 * [OpenCV](https://opencv.org/) - Open Source Computer Vision & Machine Learning Library
